@@ -1,0 +1,28 @@
+.container.main-container {
+  max-width: 80rem;
+  padding-bottom: 7.5rem;
+  padding-top: 7.5rem;
+}
+
+.red{
+  color: black !important;
+}
+
+.blue{
+  background: rgb(34,193,195) !important;
+  background: linear-gradient(0deg, rgba(34,193,195,1) 0%, rgba(45,191,253,0.052258403361344574) 0%) !important;
+}
+
+.blue-btn{
+  background: rgb(34,193,195) !important;
+  background: linear-gradient(0deg, rgba(34,193,195,1) 0%, rgba(45,191,253,0.21192226890756305) 0%) !important;
+  color: black !important;
+}
+
+.display-off{
+  display: none;
+}
+.button{
+  color: black !important;
+  border-color: black !important;
+}
